@@ -20,5 +20,7 @@ Predict whether a patient will show up for a scheduled medical appointment based
 - `HealthcareDashboard.twbx`: Tableau dashboard file
 - `data/`: Contains sample dataset or link to external data
 
-## 📊 Dashboard
+## 📊 Dashboard 
 [📈 Tableau Public Link](https://public.tableau.com/views/Healthcare_16036892554510/HealthcareDashboard)
+
+<i>(Right-click and choose “Open in New Tab” to keep this page open.)</i>
