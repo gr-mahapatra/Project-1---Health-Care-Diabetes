@@ -9,7 +9,7 @@ Predict whether a patient will show up for a scheduled medical appointment based
 - Tableau
 
 ## 🚀 Highlights
-- Analyzed 300K+ records and cleaned multiple time-based and categorical features
+- Analyzed 800 records and cleaned multiple time-based and categorical features
 - Created new features such as `HourOfTheDay` and handled outliers in age
 - Visualized show-up probability across demographics and health conditions
 - Built a predictive model to forecast no-shows
@@ -17,7 +17,7 @@ Predict whether a patient will show up for a scheduled medical appointment based
 
 ## 📁 Files
 - `Case Study - healthcare Industry.ipynb`: Main analysis and modeling notebook
-- `data/`: Contains sample dataset or link to external data
+- `health care diabetes.csv`: Contains sample dataset or link to external data
 
 ## 📊 Dashboard 
 [📈 Tableau Public Link](https://public.tableau.com/views/Healthcare_16036892554510/HealthcareDashboard)
