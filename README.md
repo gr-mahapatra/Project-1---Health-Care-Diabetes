@@ -16,8 +16,7 @@ Predict whether a patient will show up for a scheduled medical appointment based
 - Created an interactive dashboard using Tableau
 
 ## 📁 Files
-- `healthcare_no_show.ipynb`: Main analysis and modeling notebook
-- `HealthcareDashboard.twbx`: Tableau dashboard file
+- `Case Study - healthcare Industry.ipynb`: Main analysis and modeling notebook
 - `data/`: Contains sample dataset or link to external data
 
 ## 📊 Dashboard 
